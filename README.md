@@ -30,6 +30,6 @@ these are start-files for **Express** contain :
 ```bash
   npm install
 
-  npm start
+  npm run server
 ```
 ### Change Mongo_URI in config/.env 
