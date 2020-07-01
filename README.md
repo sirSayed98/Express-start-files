@@ -1,15 +1,24 @@
 # Express Start-Files
-this is start files for **Express** contains 
+these are start-files for **Express** contain : 
 
 * Seeding Functionality
+
 * connection to database
+
 * Middleware functions
   * Auth protection
   * Error Handling
   * Async modulation
+  * AdvancedResults
+      * Sort
+      * Limit
+      * Page
+      * Select          
   
 * Utils 
     * Error Response
+
+* Full CRUD Example
 
 * Server.js 
     * Connect alll files
@@ -17,9 +26,10 @@ this is start files for **Express** contains
 
 ## To USE
 
-<!-- Code Blocks -->
+
 ```bash
   npm install
 
   npm start
 ```
+### Change Mongo_URI in config/.env 
